@@ -45,6 +45,8 @@ You can alse write your own `sidebar.html` and `footer.html` and put them in `_i
 
 ## Preview
 
+Full preview in [https://momingcoder.github.io/jekyll-theme-poor/](https://momingcoder.github.io/jekyll-theme-poor/)
+
 ### Desktop
 
 ![Desktop](/assets/img/desktop.png)
