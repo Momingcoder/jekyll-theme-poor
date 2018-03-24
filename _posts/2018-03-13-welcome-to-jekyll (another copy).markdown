@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2018-03-13 21:01:49 +0800
 categories: jekyll update
+tags: jekyll, jekyll-theme, test
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
